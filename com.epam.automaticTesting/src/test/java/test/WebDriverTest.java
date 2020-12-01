@@ -16,7 +16,7 @@ import page.OnlineRegistrationPage;
 import java.io.File;
 import java.util.concurrent.TimeUnit;
 
-public class WebDriverHtmlBookTest {
+public class WebDriverTest {
     private WebDriver driver;
 
     @BeforeTest(alwaysRun = true)
